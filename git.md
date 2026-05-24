@@ -21,6 +21,6 @@
 ![alt text](image-2.png)
 点new
 创建之后
-![alt text](image-3.png)
+![alt text](image-4.png)
 复制这个地址
 然后输入git remote add origin 地址
