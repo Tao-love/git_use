@@ -18,9 +18,11 @@
 
 ##
 远程仓库初始化：
-![alt text](image-2.png)
+<img width="700" height="650" alt="image-2" src="https://github.com/user-attachments/assets/b51af2cf-2fcc-4da1-9ea9-92677675ae09" />
+
 点new
 创建之后
-![alt text](image-4.png)
+<img width="2190" height="332" alt="image-4" src="https://github.com/user-attachments/assets/16eb8b02-6abe-46a6-b34c-867c086ac679" />
+
 复制这个地址
 然后输入git remote add origin 地址
