@@ -8,12 +8,13 @@
        git config user.email "邮箱"
 注意：这里输入不会有任何返回
       输入git config user.name和git config user.email可检查是否成功输入
-4-git add .  
+4-git add .  （无返回）
   git commit -m "说明这次修改"  
   git push
   - `git add .`：把改动加入暂存区
-- `git commit -m "..."`：把暂存区内容保存成一次提交
+- `git commit -m "这是注释"`：把暂存区内容保存成一次提交
 - `git push`：把本地提交上传到远程仓库(这是有远程仓库后用的)
+
 
 ##
 远程仓库初始化：
